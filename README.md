@@ -104,3 +104,10 @@ Place it on your pom.xml:
 	    </executions>
     </plugin>
 
+
+TODO: create-new-ticket
+=======================
+ * JIRA ticket creation within the current JIRA version
+ * prints out the name e.g. APP-1234
+ * Goal: The ticket name can be used for the next commit message.
+

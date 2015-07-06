@@ -3,4 +3,6 @@
 .project
 target/
 .factorypath
+.idea
+*.iml
 

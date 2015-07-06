@@ -111,3 +111,4 @@ TODO: create-new-ticket
  * prints out the name e.g. APP-1234
  * Goal: The ticket name can be used for the next commit message.
 
+
